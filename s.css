@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+}
+.navbar{
+    height:60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    color:aliceblue;
+    justify-content: space-evenly;
+    
+}
+ .navlogo{
+    
+    height: 50px;
+    width:100px;
+    
+}
+.logo{
+    background-image: url("image1.png");
+    background-size:cover;
+    height: 50px;
+    width:100%;
+} 
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+/* .navadd{
+    display:flex;
+} */
+.add1{
+    COLOR:#CCCCCC;
+    font-size: 15px;
+    margin-left: 15px;   
+}
+.addicon{
+    display:flex;
+}
+.add2{
+    margin-left: 3px;
+    font-size: 17px;
+}
+.navse{
+    display: flex;
+    
+    height:40px;
+    border-radius: 4px;
+    width: 620px;
+    background-color: orange;
+    
+}
+.border1:hover{
+    border:2px solid orange;
+}
+
+.d{ background-color: #f3f3f3;
+    border-top-left-radius:4px ;
+    border-bottom-left-radius:4px ;
+    width: 50px;
+    border: none;
+    text-align: center;
+}
+.p{
+    height:38px;
+    width:100%;
+    border: none;
+    font-size:1rem;
+}
+.i{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.l1{
+    font-size: 12px;
+}
+.l2{
+    font-size: 14px;
+}
+.t{
+    display: inline-flex;
+}
+
+.s{
+    font-size: 30px;
+}
+.q{
+    font-size: 0.85rem;
+    padding-top: 15px;
+    font-weight: 700;
+}
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color:white;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ops p {
+    display: inline;
+    
+}
+.ops{
+    font-size: 14px;
+    width: 70%;
+}
+
+.hero{
+    background-image: url("hero.png");
+    height: 350px;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.msg{
+    font-size: 14px;
+    height: 40px;
+    width: 80%;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.msg a{
+    text-decoration: none;
+    color: #007185;
+}
+.shop{
+    background-color:#7b9498;
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+}
+.box{
+    height: 415px;
+    width:350px;
+    background-color: white;
+    
+    margin-top:15px ;
+   
+}
+.m{
+    margin-left:25px ;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+.see{
+    padding-top: 10px;
+}
+.b1img{
+    background-image: url("image3.png");
+    background-size: cover;
+    height:325px;
+    /* margin-left: 15px;
+    margin-right: 15px;
+    margin: 15px; */
+    margin-top:15px ;
+}
+.h{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+.h button{
+    width: 200px;
+    height:20px;
+    border-radius: 4px;
+    background-color: orange;
+    color: black;
+    border: none;
+    font-weight: 150;
+}
+.h a{
+     text-decoration: none;
+}
+.f{
+    margin-top: 30px;
+}
+.back{
+    height: 40px;
+    background-color: #315476;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    font-size: 12px;
+    margin-top: 15px;
+}
+.foot a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 10px;
+}
+.foot p{
+    margin-top: 20px;
+}
+.foot{
+    background-color: #222f3d;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 300px;
+}
+.pan3{
+    height: 70px;
+    background-color: #222f3d;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+.im{
+    background-image: url("image1.png");
+    background-size: cover;
+    height: 50px;width: 100px;
+}
+.last{
+    background-color: #05182e;  
+    color: white;
+    height: 40px;
+}
+.pages{
+    text-align: center;
+}
+.b{
+    text-align: center;
+}
